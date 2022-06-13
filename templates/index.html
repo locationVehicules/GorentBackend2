@@ -1,0 +1,55 @@
+
+{% load static %}
+{% block title %}Image Recognition | AI Course-work{% endblock %}
+{% block content %}
+<div id="particles-js"></div>
+<div class="container" >
+  <div 
+
+  
+      <div class="col-md-7">
+        <h3 class="text-center">With OpenCV, LBPH</h3>
+        <div class="col-md-4">
+          <a href="/faceRecog/detect"><img style="width:10%;" src="{% static 'img/webcam.png' %}" class="img-responsive" /></a>
+          <h4 class="text-center">Detect By Webcam</h4>
+        </div>
+        <div class="col-md-4">
+          <a href="/faceRecog/trainer"><img style="width:10%;" src="{% static 'img/trainer.png' %}" class="img-responsive" /></a>
+          <h4 class="text-center">Train The Classifier</h4>
+        </div>
+        <div class="col-md-4">
+          <button type="button" style="background:transparent;border:none" data-toggle="modal" data-target="#myModal">
+            <img style="width:10%;" src="{% static 'img/add.png' %}" class="img-responsive" />
+          </button>
+          <h4 class="text-center">Create Dataset</h4>
+        </div>
+      </div>
+    </div>
+</div><!-- Container -->
+
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Input unique id and wait for webcam</h4>
+      </div>
+        <form action="/faceRecog/create_dataset" method="POST">
+          {% csrf_token %}
+          <div class="form-group">
+            <label for="inputId">Enter Unique ID*</label>
+            <input type="text" class="form-control" name="userId" id="inputId" placeholder="Enter Id">
+          </div>
+          <button type="submit" class="btn btn-warning">Submit</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+{% endblock %}
