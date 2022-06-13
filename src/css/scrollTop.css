@@ -1,0 +1,19 @@
+:root {
+    --btn_color1: #5d5fef;
+    --nav_font_color: #fff;
+}
+
+#scrollTop-btn {
+  background-color: var(--btn_color1);
+  width: max-content;
+  right: 20px;
+  bottom: 20px;
+  z-index:2 !important;
+  border-radius: 50%;
+  border-color: white;
+}
+
+#scrollTop-btn i {
+  color: var(--nav_font_color);
+}
+

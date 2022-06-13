@@ -1,0 +1,54 @@
+
+@import url(./global.css);
+
+.forscrolling {
+  position: relative;
+  height: 500px;
+  overflow: auto;
+}
+
+thead tr {
+  position: sticky;
+  top: 0;
+}
+
+.table-con .date,
+.table-con .title,
+.table-con .number {
+  color: var(--title_color);
+  font-weight: 600;
+}
+
+.table-con {
+  background-color: var(--nav_font_color);
+  border-radius: 25px;
+  background: var(--nav_font_color);
+  box-shadow: 0px 4px 18px rgba(221, 221, 221, 0.51);
+}
+
+table td {
+  color: var(--title_color);
+  white-space: normal !important; 
+  word-wrap: break-word;
+}
+
+.table-con h3 {
+  color: var(--title_color);
+}
+
+.table thead tr {
+  background-color: var(--btn_color1);
+  font-weight: bold;
+}
+
+.table thead tr th {
+  color: var(--nav_font_color);
+}
+
+.table thead tr > th:first-child {
+  border-radius: 15px 0 0 15px;
+}
+
+.table thead tr > th:last-child {
+  border-radius: 0 15px 15px 0;
+}

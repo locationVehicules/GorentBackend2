@@ -1,0 +1,21 @@
+@import url(./global.css);
+
+.procentag {
+  color: #00a389 !important;
+}
+
+.square {
+  height: 20px;
+  width: 20px;
+  background: #638fc1;
+}
+
+.car-mod {
+  font-weight: 700;
+  color: #00a389;
+}
+
+.car-num {
+  font-weight: 700;
+  color: #ff9c07;
+}

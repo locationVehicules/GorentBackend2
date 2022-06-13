@@ -1,0 +1,230 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins");
+
+:root {
+  --bg1: #f6f6fe;
+  --bg2: #5d5fef60;
+  --pr1: #5d5fef;
+  --pr2: #5d5fef9f;
+}
+
+body {
+  font-family: Poppins;
+  background-color: #f6f6feb4;
+}
+
+a {
+  text-decoration: none;
+  color: #1b1a3b;
+}
+footer {
+  background-color: var(--bg1);
+}
+
+@media screen and (max-width: 992px) {
+  .form-group {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .locations {
+    width: 100%;
+    flex-direction: column;
+  }
+}
+
+#public-logo {
+  font-weight: 800;
+  color: var(--pr1);
+}
+
+#signup-btn {
+  background-color: var(--pr1);
+  border: solid 1px var(--pr1);
+  border-radius: 30px;
+  color: white;
+  padding: 5px 10px;
+}
+
+#main-nav {
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 30px;
+  color: var(--pr1);
+  font-weight: 800;
+}
+
+#main-container {
+  margin-top: 20px;
+  height: fit-content;
+  border-radius: 30px;
+  background-image: url(/src/img/pexels-negative-space-.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#main-container h1 {
+  padding: 20px;
+  color: white;
+  font-weight: 900;
+}
+
+#main-container .container {
+  display: flex;
+  background-color: white;
+  padding: 20px;
+  border-radius: 30px;
+}
+
+#main-container2 {
+  margin-top: 20px;
+  height: fit-content;
+  color: white;
+  border-radius: 30px;
+  background-color: var(--pr1);
+}
+
+#main-container2 .bi {
+  color: white;
+  padding-right: 10px;
+  font-size: 20px;
+}
+
+.bi {
+  padding-right: 10px;
+  font-size: 20px;
+  color: var(--pr1);
+}
+
+.form-control {
+  width: 170px !important;
+}
+
+.form-group input {
+  border: none;
+}
+
+.input-group-text {
+  background: none;
+  border: none;
+}
+
+.input-group-text small {
+  padding-left: 10px;
+}
+
+#costum-container {
+  background: var(--bg2);
+  border-radius: 30px;
+}
+
+#container-3 .row .col-12 {
+  background-color: white;
+  border-radius: 30px;
+}
+
+.owl-carousel .card {
+  display: flex;
+  height: 220px;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 20px;
+}
+
+.card-title {
+  margin-top: 15px;
+  max-height: 20%;
+  max-width: 100%;
+}
+
+.img-container {
+  max-height: 80%;
+  max-width: 100%;
+}
+.img-container {
+  max-height: 55%;
+  max-width: 100%;
+}
+
+.img-containe img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.owl-carousel .activeItem {
+  border: 4px solid var(--pr1) !important;
+}
+
+.img-container img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.search-btn {
+  background-color: var(--pr1);
+  border-radius: 20px;
+  padding: 15px;
+  color: white;
+  border: solid 2px var(--pr1);
+}
+.search-btn:hover {
+  background-color: white;
+  color: var(--pr1);
+}
+#title {
+  color: var(--pr1);
+  font-weight: bold;
+}
+#car-cat .col-sm-3 {
+  background-color: white;
+}
+
+#paiment-btn2,
+.paiment-btn:hover {
+  background-color: var(--bg1);
+  border: solid 2px var(--pr1);
+  color: var(--pr1);
+}
+#sorted {
+  border: solid 2px var(--pr1);
+  border-radius: 30px;
+  padding: 5px;
+  font-size: 20px;
+  font-weight: 500;
+}
+#supplier,
+#car-info {
+  background-color: white;
+  border-radius: 30px;
+  padding: 10px;
+}
+#supplier h2 {
+  color: var(--pr1);
+}
+.paiment-btn,
+#paiment-btn2:hover,
+#acc_btn,
+#next {
+  background-color: var(--pr1);
+  color: white;
+  border-radius: 30px;
+  padding: 5px 10px;
+  border: solid 2px transparent;
+}
+#acc_btn:hover,
+#next:hover {
+  background-color: white;
+  border: solid 2px var(--pr1);
+  color: var(--pr1);
+}
+#next {
+  float: right !important;
+  font-size: 25px;
+}
+#alert {
+  background-color: var(--bg2);
+  border: solid 2px var(--pr1);
+  border-radius: 10px;
+  padding: 10px;
+}

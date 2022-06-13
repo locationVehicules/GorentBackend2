@@ -1,0 +1,466 @@
+[
+    {
+        "code": "01",
+        "name_ascii": "Adrar",
+        "name": "أدرار",
+        "latitude": 160,
+        "longitude": 140,
+        "category": "Sport"
+    },
+    {
+        "code": "02",
+        "name_ascii": "Chlef",
+        "name": " الشلف",
+        "latitude": 180,
+        "longitude": 15,
+        "category": "Family"
+    },
+    {
+        "code": "03",
+        "name_ascii": "Laghouat",
+        "name": "الأغواط",
+        "latitude": 200,
+        "longitude": 55,
+        "category": "Sport"
+    },
+    {
+        "code": "04",
+        "name_ascii": "Oum El Bouaghi",
+        "name": "أم البواقي",
+        "latitude": 248,
+        "longitude": 25,
+        "category": "Family"
+    },
+    {
+        "code": "05",
+        "name_ascii": "Batna",
+        "name": "باتنة",
+        "latitude": 235,
+        "longitude": 28,
+        "category": "Sport"
+    },
+    {
+        "code": "06",
+        "name_ascii": "Béjaïa",
+        "name": " بجاية",
+        "latitude": 228,
+        "longitude": 12,
+        "category": "Family"
+    },
+    {
+        "code": "07",
+        "name_ascii": "Biskra",
+        "name": "بسكرة",
+        "latitude": 234,
+        "longitude": 40,
+        "category": "Sport"
+    },
+    {
+        "code": "08",
+        "name_ascii": "Béchar",
+        "name": "بشار",
+        "latitude": 145,
+        "longitude": 85,
+        "category": "Family"
+    },
+    {
+        "code": "09",
+        "name_ascii": "Blida",
+        "name": "البليدة",
+        "latitude": 200,
+        "longitude": 14,
+        "category": "Sport"
+    },
+    {
+        "code": "10",
+        "name_ascii": "Bouira",
+        "name": "البويرة",
+        "latitude": 213,
+        "longitude": 18,
+        "category": "Family"
+    },
+    {
+        "code": "11",
+        "name_ascii": "Tamanrasset",
+        "name": "تمنراست",
+        "latitude": 225,
+        "longitude": 180,
+        "category": "Sport"
+    },
+    {
+        "code": "12",
+        "name_ascii": "Tébessa",
+        "name": "تبسة",
+        "latitude": 255,
+        "longitude": 35,
+        "category": "Family"
+    },
+    {
+        "code": "13",
+        "name_ascii": "Tlemcen",
+        "name": "تلمسان",
+        "latitude": 150,
+        "longitude": 38,
+        "category": "Sport"
+    },
+    {
+        "code": "14",
+        "name_ascii": "Tiaret",
+        "name": "تيارت",
+        "latitude": 184,
+        "longitude": 36,
+        "category": "Family"
+    },
+    {
+        "code": "15",
+        "name_ascii": "Tizi Ouzou",
+        "name": "تيزي وزو",
+        "latitude": 215,
+        "longitude": 10,
+        "category": "Sport"
+    },
+    {
+        "code": "16",
+        "name_ascii": "Alger",
+        "name": "الجزائر",
+        "latitude": 204,
+        "longitude": 9,
+        "category": "Family"
+    },
+    {
+        "code": "17",
+        "name_ascii": "Djelfa",
+        "name": "الجلفة",
+        "latitude": 206,
+        "longitude": 45,
+        "category": "Sport"
+    },
+    {
+        "code": "18",
+        "name_ascii": "Jijel",
+        "name": "جيجل",
+        "latitude": 233,
+        "longitude": 10,
+        "category": "Family"
+    },
+    {
+        "code": "19",
+        "name_ascii": "Sétif",
+        "name": "سطيف",
+        "latitude": 230,
+        "longitude": 20,
+        "category": "Sport"
+    },
+    {
+        "code": "20",
+        "name_ascii": "Saïda",
+        "name": "سعيدة",
+        "latitude": 170,
+        "longitude": 39,
+        "category": "Family"
+    },
+    {
+        "code": "21",
+        "name_ascii": "Skikda",
+        "name": "سكيكدة",
+        "latitude": 245,
+        "longitude": 9,
+        "category": "Sport"
+    },
+    {
+        "code": "22",
+        "name_ascii": "Sidi Bel Abbès",
+        "name": "سيدي بلعباس",
+        "latitude": 161,
+        "longitude": 40,
+        "category": "Family"
+    },
+    {
+        "code": "23",
+        "name_ascii": "Annaba",
+        "name": "عنابة",
+        "latitude": 254,
+        "longitude": 8,
+        "category": "Sport"
+    },
+    {
+        "code": "24",
+        "name_ascii": "Guelma",
+        "name": "قالمة",
+        "latitude": 250,
+        "longitude": 16,
+        "category": "Family"
+    },
+    {
+        "code": "25",
+        "name_ascii": "Constantine",
+        "name": "قسنطينة",
+        "latitude": 242,
+        "longitude": 16,
+        "category": "Sport"
+    },
+    {
+        "code": "26",
+        "name_ascii": "Médéa",
+        "name": "المدية",
+        "latitude": 200,
+        "longitude": 20,
+        "category": "Family"
+    },
+    {
+        "code": "27",
+        "name_ascii": "Mostaganem",
+        "name": "مستغانم",
+        "latitude": 170,
+        "longitude": 18,
+        "category": "Sport"
+    },
+    {
+        "code": "28",
+        "name_ascii": "M'Sila",
+        "name": "المسيلة",
+        "latitude": 215,
+        "longitude": 32,
+        "category": "Family"
+    },
+    {
+        "code": "29",
+        "name_ascii": "Mascara",
+        "name": "معسكر",
+        "latitude": 170,
+        "longitude": 30,
+        "category": "Sport"
+    },
+    {
+        "code": "30",
+        "name_ascii": "Ouargla",
+        "name": "ورقلة",
+        "latitude": 235,
+        "longitude": 85,
+        "category": "Family"
+    },
+    {
+        "code": "31",
+        "name_ascii": "Oran",
+        "name": "وهران",
+        "latitude": 162,
+        "longitude": 24,
+        "category": "Sport"
+    },
+    {
+        "code": "32",
+        "name_ascii": "El Bayadh",
+        "name": "البيض",
+        "latitude": 178,
+        "longitude": 65,
+        "category": "Family"
+    },
+    {
+        "code": "33",
+        "name_ascii": "Illizi",
+        "name": "إليزي",
+        "latitude": 255,
+        "longitude": 130,
+        "category": "Sport"
+    },
+    {
+        "code": "34",
+        "name_ascii": "Bordj Bou Arreridj",
+        "name": "برج بوعريريج",
+        "latitude": 221,
+        "longitude": 20,
+        "category": "Family"
+    },
+    {
+        "code": "35",
+        "name_ascii": "Boumerdès",
+        "name": "بومرداس",
+        "latitude": 208,
+        "longitude": 9,
+        "category": "Sport"
+    },
+    {
+        "code": "36",
+        "name_ascii": "El Tarf",
+        "name": "الطارف",
+        "latitude": 260,
+        "longitude": 9,
+        "category": "Family"
+    },
+    {
+        "code": "37",
+        "name_ascii": "Tindouf",
+        "name": "تندوف",
+        "latitude": 100,
+        "longitude": 135,
+        "category": "Sport"
+    },
+    {
+        "code": "38",
+        "name_ascii": "Tissemsilt",
+        "name": "تيسمسيلت",
+        "latitude": 186,
+        "longitude": 25,
+        "category": "Family"
+    },
+    {
+        "code": "39",
+        "name_ascii": "El Oued",
+        "name": "الوادي",
+        "latitude": 248,
+        "longitude": 60,
+        "category": "Sport"
+    },
+    {
+        "code": "40",
+        "name_ascii": "Khenchela",
+        "name": "خنشلة",
+        "latitude": 246,
+        "longitude": 38,
+        "category": "Family"
+    },
+    {
+        "code": "41",
+        "name_ascii": "Souk Ahras",
+        "name": "سوق أهراس",
+        "latitude": 257,
+        "longitude": 18,
+        "category": "Sport"
+    },
+    {
+        "code": "42",
+        "name_ascii": "Tipaza",
+        "name": "تيبازة",
+        "latitude": 195,
+        "longitude": 11,
+        "category":"Family"
+    },
+    {
+        "code": "43",
+        "name_ascii": "Mila",
+        "name": "ميلة",
+        "latitude": 235,
+        "longitude": 17,
+        "category": "Sport"
+    },
+    {
+        "code": "44",
+        "name_ascii": "Aïn Defla",
+        "name": "عين الدفلة",
+        "latitude": 190,
+        "longitude": 19,
+        "category": "Family"
+    },
+    {
+        "code": "45",
+        "name_ascii": "Naâma",
+        "name": "النعامة",
+        "latitude": 160,
+        "longitude": 58,
+        "category": "Sport"
+    },
+    {
+        "code": "46",
+        "name_ascii": "Aïn Témouchent",
+        "name": "عين تيموشنت",
+        "latitude": 154,
+        "longitude": 30,
+        "category": "Family"
+    },
+    {
+        "code": "47",
+        "name_ascii": "Ghardaïa",
+        "name": "غرداية",
+        "latitude": 210,
+        "longitude": 70,
+        "category": "Sport"
+    },
+    {
+        "code": "48",
+        "name_ascii": "Relizane",
+        "name": "غليزان",
+        "latitude": 177,
+        "longitude": 25,
+        "category": "Family"
+    },
+    {
+        "code": "49",
+        "name_ascii": "Timimoun",
+        "name": "تيميمون",
+        "latitude": 177,
+        "longitude": 105,
+        "category": "Sport"
+    },
+    {
+        "code": "50",
+        "name_ascii": "Bordj Badji Mokhtar",
+        "name": "برج باجي مختار",
+        "latitude": 165,
+        "longitude": 190,
+        "category": "Family"
+    },
+    {
+        "code": "51",
+        "name_ascii": "Ouled Djellal",
+        "name": "أولاد جلال",
+        "latitude": 222,
+        "longitude": 47,
+        "category": "Sport"
+    },
+    {
+        "code": "52",
+        "name_ascii": "Béni Abbès",
+        "name": "بني عباس",
+        "latitude": 135,
+        "longitude": 110,
+        "category": "Family"
+    },
+    {
+        "code": "53",
+        "name_ascii": "In Salah",
+        "name": "عين صالح",
+        "latitude": 205,
+        "longitude": 140,
+        "category": "Sport"
+    },
+    {
+        "code": "54",
+        "name_ascii": "In Guezzam",
+        "name": "عين قزام",
+        "latitude": 215,
+        "longitude": 230,
+        "category": "Family"
+    },
+    {
+        "code": "55",
+        "name_ascii": "Touggourt",
+        "name": "تقرت",
+        "latitude": 235,
+        "longitude": 65,
+        "category": "Sport"
+    },
+    {
+        "code": "56",
+        "name_ascii": "Djanet",
+        "name": "جانت",
+        "latitude": 270,
+        "longitude": 178,
+        "category": "Family"
+    },
+    {
+        "code": "57",
+        "name_ascii": "El Meghaier",
+        "name": "المغير",
+        "latitude": 232,
+        "longitude": 52,
+        "category": "Sport"
+    },
+    {
+        "code": "58",
+        "name_ascii": "El Menia",
+        "name": "المنيعة",
+        "latitude": 200,
+        "longitude": 93,
+        "category" : "Family"
+    }
+]
